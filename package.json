@@ -21,8 +21,8 @@
     "url": "https://github.com/themang/gulp-server-task/issues"
   },
   "homepage": "https://github.com/themang/gulp-server-task",
-  "devDependencies": {
+  "dependencies": {
     "gulp-error-handler": "^0.1.0",
-    "livereload": "^0.3.6"
+    "gulp-livereload": "^3.7.0"
   }
 }
