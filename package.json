@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/themang/gulp-server-task",
   "dependencies": {
-    "gulp-error-handler": "^0.1.0",
-    "gulp-livereload": "^3.7.0"
+    "gulp-error-handler": "^0.1.0"
   }
 }
