@@ -1,0 +1,28 @@
+{
+  "name": "gulp-server-task",
+  "version": "0.1.0",
+  "description": "gulp server task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themang/gulp-server-task.git"
+  },
+  "keywords": [
+    "gulp",
+    "server",
+    "task"
+  ],
+  "author": "joshrtay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themang/gulp-server-task/issues"
+  },
+  "homepage": "https://github.com/themang/gulp-server-task",
+  "devDependencies": {
+    "gulp-error-handler": "^0.1.0",
+    "livereload": "^0.3.6"
+  }
+}
